@@ -1,0 +1,57 @@
+.album {
+  height: 100px;
+  width: 100px;
+  -webkit-user-drag: element;
+  display: inline-block;
+  border: 1px solid black
+}
+
+.click{
+  text-align: center;
+}
+
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+#hammer {
+  background-image: url("http://www.recordsmerchant.com/lpss/est2120fs.jpg")
+}
+
+#pachits {
+  background-image: url("http://ecx.images-amazon.com/images/I/51PJjN3iENL._SL500_SS100_.jpg")
+}
+
+#paceyez {
+  background-image: url("http://ecx.images-amazon.com/images/I/41lI5xRUDPL._SL500_SS100_.jpg")
+}
+
+#outkast {
+  background-image: url("http://dis.resized.images.s3.amazonaws.com/100x100/5397.jpg")
+}
+
+#biggie {
+  background-image: url("http://www.alexburgerart.com/wp-content/uploads/notorious-b-i-g-life-after-death-official-album-cover-biggie-smalls.jpg")
+}
+
+#beastie {
+  background-image: url("http://ecx.images-amazon.com/images/I/51j-SggaWSL._SL500_SS100_.jpg")
+}
+
+#eminem {
+  background-image: url("http://img.dooyoo.co.uk/GB_EN/100/music/music_records/the_eminem_show_eminem.jpg")
+}
+
+#marshmath {
+  background-image: url("http://www.rockonthenet.com/artists-e/pix/eminem_lp02.jpg")
+}
+
+#willsmith {
+  background-image: url("http://ecx.images-amazon.com/images/I/517N7Y7xjUL._SL500_SS100_.jpg")
+}
+
+#fitycent {
+  background-image: url("http://ogg.ge/album-arts-100x100/51b5bf4a7fb494b60ed79d2f"
+}
